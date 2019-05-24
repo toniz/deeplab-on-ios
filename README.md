@@ -1,4 +1,4 @@
-# Tensorflow-lite Deeplab Real Time Segmentation on iOS with OpenCV
+# Tensorflow-lite Deeplab Real Time Segmentation on iOS
 
 ## Demo
 ![](http://www.ibbwhat.com/optimize1.gif)
@@ -16,13 +16,13 @@
 ## Code reference
 
 ### Opencv 
-    Example application made for [this post](https://medium.com/@dwayneforde/image-recognition-on-ios-with-swift-and-opencv-b5cf0667b79).
+  Example application made for [this post](https://medium.com/@dwayneforde/image-recognition-on-ios-with-swift-and-opencv-b5cf0667b79).
 
 ### Tensorflow 
-    Example application made for [this post](https://www.tensorflow.org/lite/models/segmentation/overview)
+  Example application made for [this post](https://www.tensorflow.org/lite/models/segmentation/overview)
 
 ### Model File: 
-    PoseNet for pose estimation [download](https://storage.googleapis.com/download.tensorflow.org/models/tflite/gpu/multi_person_mobilenet_v1_075_float.tflite)
+  PoseNet for pose estimation [download](https://storage.googleapis.com/download.tensorflow.org/models/tflite/gpu/multi_person_mobilenet_v1_075_float.tflite)
     (vision model that estimates the poses of a person(s) in image or video)
 
 ## Installation:
