@@ -15,13 +15,13 @@
 
 ## 3. Code reference
 
-### Opencv 
+- Opencv 
   Example application made for [this post](https://medium.com/@dwayneforde/image-recognition-on-ios-with-swift-and-opencv-b5cf0667b79).
 
-### Tensorflow 
+- Tensorflow 
   Example application made for [this post](https://www.tensorflow.org/lite/models/segmentation/overview)
 
-### Model File: 
+- Model File: 
   PoseNet for pose estimation [download](https://storage.googleapis.com/download.tensorflow.org/models/tflite/gpu/multi_person_mobilenet_v1_075_float.tflite)
     (vision model that estimates the poses of a person(s) in image or video)
 
