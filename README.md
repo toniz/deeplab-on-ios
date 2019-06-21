@@ -27,7 +27,7 @@
 
 ## 4. Installation:
 ```
-git clone 
+git clone https://github.com/toniz/deeplab-on-ios.git
 cd deeplab-on-ios/
 pod install
 open DeeplabOnIOS.xcworkspace
