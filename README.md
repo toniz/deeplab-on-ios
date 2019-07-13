@@ -22,8 +22,8 @@
   Example application made for [this post](https://www.tensorflow.org/lite/models/segmentation/overview)
 
 - Model File: 
-  PoseNet for pose estimation [download](https://storage.googleapis.com/download.tensorflow.org/models/tflite/gpu/multi_person_mobilenet_v1_075_float.tflite)
-    (vision model that estimates the poses of a person(s) in image or video)
+  DeepLab segmentation [download](https://storage.googleapis.com/download.tensorflow.org/models/tflite/gpu/deeplabv3_257_mv_gpu.tflite)
+  (image segmentation model that assigns semantic labels (e.g., dog, cat, car) to every pixel in the input image)
 
 ## 4. Installation:
 ```
